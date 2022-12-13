@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/karizma/static/css/main.7af06489.css",
+    "main.js": "/karizma/static/js/main.b9683a53.js",
+    "static/js/787.28cb0dcd.chunk.js": "/karizma/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/karizma/index.html",
+    "main.7af06489.css.map": "/karizma/static/css/main.7af06489.css.map",
+    "main.b9683a53.js.map": "/karizma/static/js/main.b9683a53.js.map",
+    "787.28cb0dcd.chunk.js.map": "/karizma/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7af06489.css",
+    "static/js/main.b9683a53.js"
+  ]
+}
