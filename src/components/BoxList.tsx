@@ -10,7 +10,7 @@ const BoxList = ({ state }: any) => {
     <Box
       sx={{
         width: 400,
-        height: 700,
+        height: "75vh",
         backgroundColor: "white",
         margin: "25px",
         padding: "20px",
